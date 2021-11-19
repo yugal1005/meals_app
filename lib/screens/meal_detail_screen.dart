@@ -91,7 +91,7 @@ class MealsDetailScreen extends StatelessWidget {
                     ),
                   ],
                 ),
-                itemCount: selectedMeal.steps.length,
+                itemCount: selectedMeal.steps.length, //item count length
               ),
             ),
           ],
